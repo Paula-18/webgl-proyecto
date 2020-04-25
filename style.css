@@ -1,7 +1,7 @@
 .menu{
     font-family: sans-serif;
     font-weight: bold;
-    background-color: #E7E7E7;
+    background-color: black;
     text-align: center;
     width: 100%;
     font-size: 20px;
@@ -11,7 +11,21 @@
 
 a{
     text-decoration: none;
-    color: var(--custom-a);
+    color: white;
     padding: 80px;
     font-size: 20px;
+}
+
+body{
+    background-color: cornsilk; 
+    margin: 0%;
+}
+
+canvas{
+    padding-left: 0;
+    padding-right: 0;
+    display: block;
+    width: 800;
+    margin-left: auto;
+    margin-right: auto;
 }
