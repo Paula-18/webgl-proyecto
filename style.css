@@ -1,0 +1,17 @@
+.menu{
+    font-family: sans-serif;
+    font-weight: bold;
+    background-color: #E7E7E7;
+    text-align: center;
+    width: 100%;
+    font-size: 20px;
+    padding-right: 20px;
+    overflow: hidden;
+}
+
+a{
+    text-decoration: none;
+    color: var(--custom-a);
+    padding: 80px;
+    font-size: 20px;
+}
